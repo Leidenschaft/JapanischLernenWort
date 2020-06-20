@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Entry SYSTEM "AdjModel.dtd">
+<?xml-stylesheet type="text/xsl" href="AdjRenderTemplate.xslt"?>
+<Entry>
+<Stichwort>ときどき</Stichwort>
+<Einheit>1</Einheit>
+
+<zusammengesetzteWörter>
+	<KompositaCollection>
+	</KompositaCollection>
+	<abgeleiteteWörter/></zusammengesetzteWörter>
+
+<Synonymegruppe>
+	<Sym/>
+</Synonymegruppe>
+<Antonymegruppe>
+	<Anm/>
+</Antonymegruppe>
+
+<Kollokationen>
+<K/>
+</Kollokationen>
+
+<AllgemeineErläuterungen>
+	<Eintrag>
+		<Chinesisch>有时</Chinesisch>
+		<BeispielSammlung>
+		</BeispielSammlung>
+	</Eintrag>
+</AllgemeineErläuterungen>
+
+</Entry>
