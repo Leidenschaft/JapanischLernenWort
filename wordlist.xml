@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="navigation.xslt"?>
+
+<Wordlist>
+  <Word address="1.xml" chinese="晚上">夕方</Word>
+  <Word address="2.xml" chinese="好的">良い</Word>
+  <Word address="3.xml" chinese="吃饭">食べる</Word>
+</Wordlist>

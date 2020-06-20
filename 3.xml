@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Entry SYSTEM "VerbenModel.dtd">
+<?xml-stylesheet type="text/xsl" href="VerbRenderTemplate.xslt"?>
+<Entry category="Verben">
+	<Stichwort>食べる</Stichwort>
+	<Einheit>2</Einheit>
+
+			
+	<zusammengesetzteWörter>
+			<KompositaCollection>
+      </KompositaCollection>
+			<abgeleiteteWörter>
+			</abgeleiteteWörter>
+	</zusammengesetzteWörter>
+		<Synonymegruppe>
+			<Sym/>
+		</Synonymegruppe>
+		<Antonymegruppe>
+			<Anm/>
+		</Antonymegruppe>
+
+		<Kollokationen>
+		</Kollokationen>
+		<AllgemeineErläuterungen>
+				<Eintrag transitiv="">
+					
+					<Chinesisch>吃饭</Chinesisch>
+					<BeispielSammlung>
+					<Beispiel>
+					<Satz>食堂で朝ご飯をたべます。</Satz>
+                    <Übersetzung>在食堂吃早饭。</Übersetzung>
+					</Beispiel>
+					</BeispielSammlung>
+					
+   				</Eintrag>
+			</AllgemeineErläuterungen>
+	
+	
+</Entry>
