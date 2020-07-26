@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE Entry SYSTEM "NounModel.dtd">
 <?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
 <Entry category="Substantiv">
@@ -18,7 +18,7 @@
 </Kollokationen>
 <AllgemeineErläuterungen>
 <Eintrag>
-<Chinesisch>米国</Chinesisch>
+<Chinesisch>美国</Chinesisch>
 <BeispielSammlung>
 </BeispielSammlung>
 </Eintrag>
