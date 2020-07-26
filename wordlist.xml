@@ -1,9 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <?xml-stylesheet type="text/xsl" href="navigation.xslt"?>
-
 <Wordlist>
   <Word address="1.xml" chinese="晚上">夕方</Word>
   <Word address="2.xml" chinese="好的">良い</Word>
   <Word address="3.xml" chinese="吃饭">食べる</Word>
   <Word address="4.xml" chinese="有时">ときどき</Word>
+<Word address="5.xml" chinese="力">力</Word>
+<Word address="6.xml" chinese="語学">語学</Word>
+<Word address="7.xml" chinese="凝らす">凝らす</Word>
+<Word address="8.xml" chinese="生きる">生きる</Word>
+<Word address="9.xml" chinese="優る">優る</Word>
+<Word address="10.xml" chinese="教材">教材</Word>
+<Word address="11.xml" chinese="教程">教程</Word>
+<Word address="12.xml" chinese="世紀">世紀</Word>
+<Word address="13.xml" chinese="出版">出版</Word>
+<Word address="14.xml" chinese="誠に">誠に</Word>
+<Word address="15.xml" chinese="学習">学習</Word>
+<Word address="16.xml" chinese="判定">判定</Word>
+<Word address="17.xml" chinese="tenth&#10;">割</Word>
+<Word address="18.xml" chinese="人工知能">人工知能</Word>
+<Word address="19.xml" chinese="自閉症">自閉症</Word>
+<Word address="20.xml" chinese="一致">一致</Word>
+<Word address="21.xml" chinese="警告">警告</Word>
+<Word address="22.xml" chinese="入門">入門</Word>
+<Word address="23.xml" chinese="期">期</Word>
+<Word address="24.xml" chinese="太郎">太郎</Word>
+<Word address="25.xml" chinese="切手">切手</Word>
+<Word address="26.xml" chinese="貼る">貼る</Word>
+<Word address="27.xml" chinese="最後">最後</Word>
+<Word address="28.xml" chinese="諦める">諦める</Word>
+<Word address="29.xml" chinese="旧暦">旧暦</Word>
+<Word address="30.xml" chinese="白菜">白菜</Word>
+<Word address="31.xml" chinese="宇宙">宇宙</Word>
+<Word address="32.xml" chinese="鳴る">鳴る</Word>
+<Word address="33.xml" chinese="関係">関係</Word>
+<Word address="34.xml" chinese="Asperger's syndrome">アスペルガー症候群</Word>
+<Word address="35.xml" chinese="課題">課題</Word>
+<Word address="36.xml" chinese="撮影">撮影</Word>
+<Word address="37.xml" chinese="領域">領域</Word>
+<Word address="38.xml" chinese="警察">警察</Word>
+<Word address="39.xml" chinese="手法">手法</Word>
+<Word address="40.xml" chinese="総称">総称</Word>
+<Word address="41.xml" chinese="問診">問診</Word>
+<Word address="42.xml" chinese="診断">診断</Word>
+<Word address="43.xml" chinese="疾患">疾患</Word>
+<Word address="44.xml" chinese="判明">判明</Word>
+<Word address="45.xml" chinese="米国">米国</Word>
 </Wordlist>

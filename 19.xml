@@ -2,30 +2,25 @@
 <!DOCTYPE Entry SYSTEM "NounModel.dtd">
 <?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
 <Entry category="Substantiv">
-<Stichwort>夕方</Stichwort>
-<Ausspache>ゆうがた</Ausspache>
-<Einheit>1</Einheit>
-
+<Stichwort>自閉症</Stichwort>
+<Ausspache>じへいしょう</Ausspache>
 <zusammengesetzteWörter>
-	<KompositaCollection>
-	</KompositaCollection>
-	<abgeleiteteWörter>
-	</abgeleiteteWörter></zusammengesetzteWörter>
-
+<KompositaCollection>
+</KompositaCollection>
+<abgeleiteteWörter>
+</abgeleiteteWörter>
+</zusammengesetzteWörter>
 <Synonymegruppe>
 </Synonymegruppe>
 <Antonymegruppe>
 </Antonymegruppe>
-
 <Kollokationen>
 </Kollokationen>
-
 <AllgemeineErläuterungen>
-	<Eintrag>
-		<Chinesisch>晚上</Chinesisch>
-		<BeispielSammlung>
-		</BeispielSammlung>
-	</Eintrag>
+<Eintrag>
+<Chinesisch>自閉症</Chinesisch>
+<BeispielSammlung>
+</BeispielSammlung>
+</Eintrag>
 </AllgemeineErläuterungen>
-
 </Entry>
