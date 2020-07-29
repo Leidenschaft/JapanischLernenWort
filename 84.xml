@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!DOCTYPE Entry SYSTEM "NounModel.dtd">
 <?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
 <Entry category="Substantiv">
-<Stichwort>アスペルガー症候群</Stichwort>
-<Ausspache>アスペルガーしょうこうぐん</Ausspache>
+<Stichwort>仲</Stichwort>
+<Ausspache>なか</Ausspache>
 <zusammengesetzteWörter>
 <KompositaCollection>
 </KompositaCollection>
@@ -18,8 +18,7 @@
 </Kollokationen>
 <AllgemeineErläuterungen>
 <Eintrag>
-<Chinesisch>Asperger's_syndrome
-</Chinesisch>
+<Chinesisch>仲</Chinesisch>
 <BeispielSammlung>
 </BeispielSammlung>
 </Eintrag>
