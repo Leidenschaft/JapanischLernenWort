@@ -103,4 +103,5 @@
 <Word address="100.xml" chinese="運転免許">運転免許</Word>
 <Word address="101.xml" chinese="主人公">主人公</Word>
 <Word address="102.xml" chinese="表現">表現</Word>
+<Word address="103.xml" chinese="weekday" gender="der">平日</Word>
 </Wordlist>
