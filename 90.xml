@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE Entry SYSTEM "NounModel.dtd">
-<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
-<Entry category="Substantiv">
+<!DOCTYPE Entry SYSTEM "AdjModel.dtd">
+<?xml-stylesheet type="text/xsl" href="AdjRenderTemplate.xslt"?>
+<Entry category="Adjektiv">
 <Stichwort>悔しい</Stichwort>
 <Ausspache>くやしい</Ausspache>
 <zusammengesetzteWörter>
