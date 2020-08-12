@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<!DOCTYPE Entry SYSTEM "NounModel.dtd">
-<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
-<Entry category="Substantiv">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE Entry SYSTEM "VerbenModel.dtd">
+<?xml-stylesheet type="text/xsl" href="VerbRenderTemplate.xslt"?>
+<Entry category="Verben">
 <Stichwort>諦める</Stichwort>
 <Ausspache>あきらめる</Ausspache>
 <zusammengesetzteWörter>
@@ -18,7 +18,7 @@
 </Kollokationen>
 <AllgemeineErläuterungen>
 <Eintrag>
-<Chinesisch>諦める</Chinesisch>
+<Chinesisch>abandon</Chinesisch>
 <BeispielSammlung>
 </BeispielSammlung>
 </Eintrag>

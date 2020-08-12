@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE Entry SYSTEM "NounModel.dtd">
-<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
-<Entry category="Substantiv">
+<!DOCTYPE Entry SYSTEM "VerbenModel.dtd">
+<?xml-stylesheet type="text/xsl" href="VerbRenderTemplate.xslt"?>
+<Entry category="Verben">
 <Stichwort>現れる</Stichwort>
-<Ausspache>あらわ</Ausspache>
+<Ausspache>あらわれる</Ausspache>
 <zusammengesetzteWörter>
 <KompositaCollection>
 </KompositaCollection>
@@ -18,7 +18,7 @@
 </Kollokationen>
 <AllgemeineErläuterungen>
 <Eintrag>
-<Chinesisch>現れる</Chinesisch>
+<Chinesisch>appear</Chinesisch>
 <BeispielSammlung>
 </BeispielSammlung>
 </Eintrag>
