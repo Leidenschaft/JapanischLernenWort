@@ -106,4 +106,4 @@
 <Word address="103.xml" chinese="weekday" gender="der">平日</Word>
 <Word address="V1.xml" chinese="to clear">晴れる</Word>
 <Word address="V2.xml" chinese="close">閉まる</Word>
-</Wordlist>
+<Word address="V3.xml" chinese="open">開ける</Word></Wordlist>
