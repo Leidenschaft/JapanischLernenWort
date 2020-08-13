@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE Entry SYSTEM "NounModel.dtd">
-<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
-<Entry category="Substantiv">
+<!DOCTYPE Entry SYSTEM "VerbenModel.dtd">
+<?xml-stylesheet type="text/xsl" href="VerbRenderTemplate.xslt"?>
+<Entry category="Verben">
 <Stichwort>間違う</Stichwort>
 <Ausspache>まちがう</Ausspache>
 <zusammengesetzteWörter>
