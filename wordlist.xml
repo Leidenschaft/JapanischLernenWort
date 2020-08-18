@@ -106,4 +106,36 @@
 <Word address="103.xml" chinese="weekday" gender="der">平日</Word>
 <Word address="V1.xml" chinese="to clear">晴れる</Word>
 <Word address="V2.xml" chinese="close">閉まる</Word>
-<Word address="V3.xml" chinese="open">開ける</Word></Wordlist>
+<Word address="V3.xml" chinese="open">開ける</Word>
+<Word address="104.xml" chinese="交流">交流</Word>
+<Word address="105.xml" chinese="影響">影響</Word>
+<Word address="106.xml" chinese="統計学">統計学</Word>
+<Word address="107.xml" chinese="文章">文章</Word>
+<Word address="108.xml" chinese="連れる">連れる</Word>
+<Word address="109.xml" chinese="嫌がる">嫌がる</Word>
+<Word address="110.xml" chinese="以降">以降</Word>
+<Word address="111.xml" chinese="けいざい">けいざい</Word>
+<Word address="112.xml" chinese="京劇">京劇</Word>
+<Word address="113.xml" chinese="賃す">賃す</Word>
+<Word address="114.xml" chinese="遣唐使">遣唐使</Word>
+<Word address="115.xml" chinese="回復">回復</Word>
+<Word address="116.xml" chinese="気分">気分</Word>
+<Word address="117.xml" chinese="対策">対策</Word>
+<Word address="118.xml" chinese="細かい">細かい</Word>
+<Word address="119.xml" chinese="official">公式</Word>
+<Word address="120.xml" chinese="感謝">感謝</Word>
+<Word address="121.xml" chinese="長崎">長崎</Word>
+<Word address="122.xml" chinese="研究所">研究所</Word>
+<Word address="123.xml" chinese="自己">自己</Word>
+<Word address="124.xml" chinese="流暢">流暢</Word>
+<Word address="125.xml" chinese="come">参る</Word>
+<Word address="126.xml" chinese="関係">関係</Word>
+<Word address="127.xml" chinese="suprisedly">びっくり</Word>
+<Word address="128.xml" chinese="協力">協力</Word>
+<Word address="129.xml" chinese="遠藤">遠藤</Word>
+<Word address="130.xml" chinese="古屋">古屋</Word>
+<Word address="131.xml" chinese="項目">項目</Word>
+<Word address="132.xml" chinese="設定">設定</Word>
+<Word address="133.xml" chinese="選択">選択</Word>
+<Word address="134.xml" chinese="表示">表示</Word>
+</Wordlist>
