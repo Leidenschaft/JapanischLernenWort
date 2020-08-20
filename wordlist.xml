@@ -86,7 +86,7 @@
 <Word address="83.xml" chinese="丁寧">丁寧</Word>
 <Word address="84.xml" chinese="仲">仲</Word>
 <Word address="85.xml" chinese="変更">変更</Word>
-<Word address="86.xml" chinese="都合">都合</Word>
+<Word address="86.xml" chinese="pass">経つ</Word>
 <Word address="87.xml" chinese="先約">先約</Word>
 <Word address="88.xml" chinese="助言">助言</Word>
 <Word address="89.xml" chinese="下線">下線</Word>
@@ -114,7 +114,7 @@
 <Word address="108.xml" chinese="連れる">連れる</Word>
 <Word address="109.xml" chinese="嫌がる">嫌がる</Word>
 <Word address="110.xml" chinese="以降">以降</Word>
-<Word address="111.xml" chinese="けいざい">けいざい</Word>
+<Word address="111.xml" chinese="遺産">遺産</Word>
 <Word address="112.xml" chinese="京劇">京劇</Word>
 <Word address="113.xml" chinese="賃す">賃す</Word>
 <Word address="114.xml" chinese="遣唐使">遣唐使</Word>
@@ -129,7 +129,7 @@
 <Word address="123.xml" chinese="自己">自己</Word>
 <Word address="124.xml" chinese="流暢">流暢</Word>
 <Word address="125.xml" chinese="come">参る</Word>
-<Word address="126.xml" chinese="関係">関係</Word>
+<Word address="126.xml" chinese="読解">読解</Word>
 <Word address="127.xml" chinese="suprisedly">びっくり</Word>
 <Word address="128.xml" chinese="協力">協力</Word>
 <Word address="129.xml" chinese="遠藤">遠藤</Word>
@@ -138,4 +138,4 @@
 <Word address="132.xml" chinese="設定">設定</Word>
 <Word address="133.xml" chinese="選択">選択</Word>
 <Word address="134.xml" chinese="表示">表示</Word>
-</Wordlist>
+<Word address="135.xml" chinese="出発">出発</Word></Wordlist>
