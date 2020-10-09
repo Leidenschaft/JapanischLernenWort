@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<!DOCTYPE Entry SYSTEM "NounModel.dtd">
-<?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
-<Entry category="Substantiv">
+<!DOCTYPE Entry SYSTEM "VerbenModel.dtd">
+<?xml-stylesheet type="text/xsl" href="VerbRenderTemplate.xslt"?>
+<Entry category="Verben">
 <Stichwort>向く</Stichwort>
-<Aussprache>むく</Aussprache>
+<Ausspache>むく</Ausspache>
 <zusammengesetzteWörter>
 <KompositaCollection>
 </KompositaCollection>
@@ -18,8 +18,7 @@
 </Kollokationen>
 <AllgemeineErläuterungen>
 <Eintrag>
-<Chinesisch>suitable
-</Chinesisch>
+<Chinesisch>be suitable for</Chinesisch>
 <BeispielSammlung>
 </BeispielSammlung>
 </Eintrag>
