@@ -3,7 +3,7 @@
 <?xml-stylesheet type="text/xsl" href="NounRenderTemplate.xslt"?>
 <Entry category="Substantiv">
 <Stichwort>読解</Stichwort>
-<Ausspache>どっかい</Ausspache>
+<Aussprache>どっかい</Aussprache>
 <zusammengesetzteWörter>
 <KompositaCollection>
 </KompositaCollection>
@@ -18,7 +18,7 @@
 </Kollokationen>
 <AllgemeineErläuterungen>
 <Eintrag>
-<Chinesisch>関係</Chinesisch>
+<Chinesisch>阅读理解</Chinesisch>
 <BeispielSammlung>
 </BeispielSammlung>
 </Eintrag>
